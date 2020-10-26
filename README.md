@@ -1,2 +1,3 @@
 # emojipedia
-Created with CodeSandbox
+simple emoji library made with react
+
